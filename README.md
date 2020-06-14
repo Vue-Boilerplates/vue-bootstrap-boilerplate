@@ -13,6 +13,7 @@ The following features are delivered out of the box in this repo, you are just o
 - Vue router
 - Vuex
 - PWA - service worker
+- Bootstrap
 - SASS
 - babel
 - Webpack bundling
